@@ -18,7 +18,9 @@ export enum SupportedChainId {
 
   BNB = 56,
 
-  BASE_GOERLI = 84531
+  BASE_GOERLI = 84531,
+
+  PULSE = 369
 }
 
 // exports for external consumption
