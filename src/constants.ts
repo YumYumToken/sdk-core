@@ -18,6 +18,7 @@ export enum SupportedChainId {
 
   BNB = 56,
 
+  BASE = 8453,
   BASE_GOERLI = 84531,
 
   PULSE = 369
